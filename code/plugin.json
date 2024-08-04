@@ -1,0 +1,16 @@
+{
+    "main": "index.html",
+    "logo": "logo.png",
+    "features": [
+      {
+        "name": "超级玛丽",
+        "version": "1.1.0",
+        "pluginName": "超级玛丽小游戏",
+        "description": "超级玛丽小游戏",
+        "code": "mario",
+        "explain": "超级玛丽小游戏",
+        "cmds": ["超级玛丽", "马里奥", "超级马里奥", "游戏", "mario"]
+      }
+    ]
+  }
+  
