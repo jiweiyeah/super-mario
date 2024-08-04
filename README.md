@@ -17,6 +17,6 @@ utools 插件：https://u.tools/plugins/detail/%E8%B6%85%E7%BA%A7%E7%8E%9B%E4%B8
 
 ![mario6](https://github.com/jiweiyeah/super-mario/blob/main/package/mario6.png)
 
-![wechat](https://github.com/jiweiyeah/super-mario/blob/main/package/wechat.jpg)
+<img src="https://github.com/jiweiyeah/super-mario/blob/main/package/wechat.jpg" align="left" width="30%">
 
-![admiration](https://github.com/jiweiyeah/super-mario/blob/main/package/admiration.jpg)
+<img src="https://github.com/jiweiyeah/super-mario/blob/main/package/admiration.jpg" width="40%">
