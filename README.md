@@ -5,3 +5,18 @@
 
 utools 插件：https://u.tools/plugins/detail/%E8%B6%85%E7%BA%A7%E7%8E%9B%E4%B8%BD/
 
+![mario1](https://github.com/jiweiyeah/super-mario/blob/main/package/mario1.png)
+
+![mario2](https://github.com/jiweiyeah/super-mario/blob/main/package/mario2.png)
+
+![mario3](https://github.com/jiweiyeah/super-mario/blob/main/package/mario3.png)
+
+![mario4](https://github.com/jiweiyeah/super-mario/blob/main/package/mario4.png)
+
+![mario5](https://github.com/jiweiyeah/super-mario/blob/main/package/mario5.png)
+
+![mario6](https://github.com/jiweiyeah/super-mario/blob/main/package/mario6.png)
+
+![wechat](https://github.com/jiweiyeah/super-mario/blob/main/package/wechat.jpg)
+
+![admiration](https://github.com/jiweiyeah/super-mario/blob/main/package/admiration.jpg)
